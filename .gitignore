@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+multilingual_ai_assistant
 
 # Spyder project settings
 .spyderproject
