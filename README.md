@@ -14,7 +14,7 @@ git clone https://github.com/sudhanshusinghaiml/Multilingual-AI-Assistant-System
 - Create a conda environment after opening the repository
 
 ```bash
-conda create -n llmapp python=3.8 -y
+conda create -n llmapp python=3.10.14 -y
 ```
 
 ```bash
